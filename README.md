@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
-My Name is Alex and I'm a Game developer, I love making games and learning about mechanics and making them in games. I also do little website and server things. I prefer making games in unity using C# but i also like Godot Engine
+My Name is Alex and I'm a Game developer, I love making games and learning about mechanics and making them in games. I also do little bit of website and server things. 
+I prefer making games in unity using C# but i also like Godot Engine
 Code languages I use: 
 
   - C# 
