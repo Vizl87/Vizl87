@@ -2,8 +2,8 @@
 
 
 My Name is Alex and I'm a Game developer, I love making games and learning about mechanics and making them in games. I also do little bit of website and server things. 
-I prefer making games in unity using C# but i also like Godot Engine
-Code languages I use: 
+I prefer making games in unity using C# but i also like Godot Engine.
+Coding languages I use: 
 
   - C# 
 
@@ -18,6 +18,7 @@ Code languages I use:
 ##
 
 Heres the link to my portfolio: https://vizl87.github.io/portfolio/
+and heres my email ojantakanenaleksi@gmail.com
 
 
 <!--
